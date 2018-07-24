@@ -1,0 +1,19 @@
+#main{
+    width: 500px;
+    height: 200px;
+
+    cursor: pointer;
+}
+
+.first{
+    background: url("../img/1.png") 0 0;
+}
+
+.second {
+    background: url("../img/1.png") 0 -190px ;
+}
+
+.third {
+    background: url("../img/1.png") 0 -370px ;
+}
+

@@ -1,0 +1,13 @@
+.closed{
+    width: 500px;
+    height: 500px;
+
+    background-image: url(https://kamalotcanvas.files.wordpress.com/2014/02/folder-closed1.png);
+}
+
+.opened{
+    width: 500px;
+    height: 500px;
+
+    background-image: url(https://kamalotcanvas.files.wordpress.com/2014/02/folder-icon.png);
+}
