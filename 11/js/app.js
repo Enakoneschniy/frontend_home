@@ -37,7 +37,7 @@
     function inArray(text, array) {
         let result;
         array.forEach(function (item) {
-            result = item === text;
+          return result = item === text;
         });
         return result;
     }
