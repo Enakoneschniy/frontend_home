@@ -1,0 +1,15 @@
+.shadow {
+    background-color: grey;
+    opacity: 0.4;
+}
+#main {
+    width: 400px;
+    height: 303px;
+    opacity: 1;
+    position: absolute;
+}
+#header{
+    width: 700px;
+    height: 700px;
+    position: relative;
+}
